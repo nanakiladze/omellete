@@ -1,0 +1,55 @@
+* {
+    padding: 0
+    margin 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+   
+}
+.photo {
+
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+    width: 600px;
+    margin: auto;
+    
+}
+.photo img {
+    width: 100%;
+    border-radius: 15px;
+}
+.momzadeba{
+   padding: 0.5cm;
+   margin: 20px;
+background-color: hsl(330, 100%, 98%);
+font-size: 16px;
+}
+.momzadeba h2 {
+    color: hsl(287, 87%, 49%);
+}
+
+.ingredientebi h2 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: hsl(32, 85%, 29%);
+    
+
+}
+.instructions h2 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: hsl(32, 87%, 35%);
+}
+.Nutritions h1{
+    color: hsl(32, 87%, 35%);
+}
+.feri b{
+    color: hsl(32, 88%, 40%);
+   margin: 200px;
+}
